@@ -1,6 +1,6 @@
 # Scrip
 
-## [![Hex pm](http://img.shields.io/hexpm/v/scrip.svg?style=flat)](https://hex.pm/packages/scrip) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)![.github/workflows/elixir.yml](https://github.com/maartenvanvliet/scrip/workflows/.github/workflows/elixir.yml/badge.svg)
+## [![Hex pm](http://img.shields.io/hexpm/v/scrip.svg?style=flat)](https://hex.pm/packages/scrip) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)![CI](https://github.com/maartenvanvliet/scrip/workflows/CI/badge.svg)
 
 <!-- MDOC !-->
 
