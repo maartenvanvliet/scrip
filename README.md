@@ -13,7 +13,7 @@ The package can be installed by adding `scrip` to your list of dependencies in `
 ```elixir
 def deps do
   [
-    {:script, "~> 1.0.0"},
+    {:scrip, "~> 1.0.0"},
     {:jason, "~> 1.1"}, # optional
     {:httpoison, "~> 1.7"}, # optional
   ]
