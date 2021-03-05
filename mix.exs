@@ -41,7 +41,7 @@ defmodule Scrip.MixProject do
       {:jason, "~> 1.1", optional: true},
       {:httpoison, "~> 1.7", only: [:dev, :test]},
       {:ex_doc, "~> 0.22", only: [:dev, :test]},
-      {:bypass, "~> 1.0", only: :test},
+      {:bypass, "~> 2.1", only: :test},
       {:credo, "~> 1.5.0", only: [:dev, :test], runtime: false}
     ]
   end
